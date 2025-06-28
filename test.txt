@@ -1,1 +1,1 @@
-Hello, this is an updated test content for typing game.
+Hello, this is the final test content for typing game.
